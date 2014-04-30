@@ -1,0 +1,23 @@
+pkgbase = libgroove
+	pkgdesc = Audio dispatching library. Generic sink-based interface. Provides decoding, encoding, resampling, and gain adjustment.
+	pkgver = 3.1.1
+	pkgrel = 1
+	url = https://github.com/andrewrk/libgroove
+	arch = i686
+	arch = x86_64
+	license = MIT
+	makedepends = cmake
+	makedepends = yasm
+	depends = sdl2
+	depends = lame
+	depends = bzip2
+	depends = ffmpeg
+	depends = chromaprint
+	conflicts = libgroove-git
+	options = strip
+	options = ccache
+	source = https://github.com/andrewrk/libgroove/archive/3.1.1.tar.gz
+	sha256sums = 339892f801a8460ab7f0065e3d85d782002385db2373b0785c158011d60e17ab
+
+pkgname = libgroove
+
