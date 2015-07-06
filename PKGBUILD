@@ -1,6 +1,6 @@
 pkgname=libgroove
 pkgver=4.3.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Audio dispatching library. Generic sink-based interface. Provides decoding, encoding, resampling, and gain adjustment."
 arch=('i686' 'x86_64')
 url="https://github.com/andrewrk/libgroove"

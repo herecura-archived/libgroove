@@ -1,7 +1,7 @@
 pkgbase = libgroove
 	pkgdesc = Audio dispatching library. Generic sink-based interface. Provides decoding, encoding, resampling, and gain adjustment.
 	pkgver = 4.3.0
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/andrewrk/libgroove
 	arch = i686
 	arch = x86_64
